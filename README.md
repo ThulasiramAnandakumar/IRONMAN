@@ -1,2 +1,0 @@
-# IRONMAN
-Bootcamp_Assesment
